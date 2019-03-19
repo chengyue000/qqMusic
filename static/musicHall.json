@@ -1,0 +1,69 @@
+{
+    "user":{
+
+    },
+   
+    "bannerImg":[
+        {
+            "img":"./static/imgs/hallImg/banner-1.png",
+            "url":"##"
+        },
+        {
+            "img":"./static/imgs/hallImg/banner-1.png",
+            "url":"##"
+        },
+        {
+            "img":"./static/imgs/hallImg/banner-1.png",
+            "url":"##"
+        },
+        {
+            "img":"./static/imgs/hallImg/banner-1.png",
+            "url":"##"
+        },
+        {
+            "img":"./static/imgs/hallImg/banner-1.png",
+            "url":"##"
+        }
+    ],
+    "publicImg":"/static/imgs/hallImg/gengduo.png",
+    "recommendAlbum":{
+        "tuiLeftImg":"/static/imgs/hallImg/gexingdiantai.png",
+        "newMusicImg":"/static/imgs/hallImg/xinge.png",
+        "newMusicTitle":"还记得OST天后绵羊姐？",
+        "ticketImg":"/static/imgs/hallImg/piaowu.png",
+        "ticketTitle":"致敬经典 致敬天王"
+    },
+    "menuListOption": {
+        "slidesPerView": "auto",
+        "spaceBetween": 9,
+        "autoplay": {
+            "disableOnInteraction": false,
+            "delay": 3000
+        },
+        "loop": true,
+        "direction": "horizontal",
+        "pagination": {
+            "el": ".my-pagination",
+            "clickable": true,
+            "bulletClass": "my-bullet",
+            "bulletActiveClass": "my-bullet-active"
+        }
+    }
+    ,
+    "recommendList":{
+        "SongListImg":["/static/imgs/hallImg/tuijian-1.png",
+            "/static/imgs/hallImg/tuijian-2.png",
+            "/static/imgs/hallImg/tuijian-3.png",
+            "/static/imgs/hallImg/tuijian-1.png",
+            "/static/imgs/hallImg/tuijian-2.png",
+            "/static/imgs/hallImg/tuijian-3.png"],
+        "SongListTitle":["你的独家品味推荐","如果思念有声音","我唱我","死后,请将我埋葬在电子音乐中","如果思念有声音","我唱我"]
+    },
+    "newestAlbum":{
+        "albumImg":["/static/imgs/hallImg/xinzhuanji-1.png",
+            "/static/imgs/hallImg/xinzhuanji-2.png",
+            "/static/imgs/hallImg/xinzhuanji-3.png"],
+        "albumName":["TYT.V5.com台风...","While We Wait(Ex..","NEW KIDS"],
+        "albumSinger":["台风少年团","kehlani","iKON"]
+    }
+}

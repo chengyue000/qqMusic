@@ -1,0 +1,27 @@
+{
+   "musicUser":{
+        "userLogoImg":"/static/imgs/mineImg/per-1.png",
+        "userName":"米兰的小铁匠",
+        "userVipImg1":"/static/imgs/mineImg/per-2.png",
+        "userVipImg2":"/static/imgs/mineImg/per-3.png"
+    },
+    "vipCenter" :"新春特惠进行中",
+    "aboutMusic":[591,159,200,155,100,10],
+    "personalCare":{
+        "updateImg":"/static/imgs/mineImg/guanzhu-1.png",
+        "updateWord":"7条动态和音乐更新",
+        "updateSinger":"杨宗纬发布新视频 （《流浪星球》电影推..."
+    },
+    "makeMusicList":{
+        "musicListImg":["/static/imgs/mineImg/list-1.png",
+            "/static/imgs/mineImg/list-2.png","/static/imgs/mineImg/list-3.png",
+            "/static/imgs/mineImg/list-4.png","/static/imgs/mineImg/list-1.png",
+            "/static/imgs/mineImg/list-2.png","/static/imgs/mineImg/list-3.png",
+            "/static/imgs/mineImg/list-4.png","/static/imgs/mineImg/list-1.png"
+        ],
+        "musicListTitle":["情绪燃料","周末小聚，当然要来点缤纷小调","欧美大咖来袭","情绪燃料","周末小聚，当然要来点缤纷小调","欧美大咖来袭","情绪燃料","周末小聚，当然要来点缤纷小调","欧美大咖来袭"],
+        "musicListInfo":["32首  来自QQ音乐官方歌单","26首  来自北极安凉","18首  来自_Poison",
+            "32首  来自QQ音乐官方歌单","26首  来自北极安凉","18首  来自_Poison",
+            "32首  来自QQ音乐官方歌单","26首  来自北极安凉","18首  来自_Poison"]
+    }
+}
